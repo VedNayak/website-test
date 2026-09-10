@@ -4,8 +4,8 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SocioLoca Website Test",
-  description: "A simple deployment pipeline test for SocioLoca.",
+  title: "SocioLoca — Digital growth, built properly",
+  description: "Strategy, creative, performance and technology working as one.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
